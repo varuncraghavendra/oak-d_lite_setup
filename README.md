@@ -3,7 +3,7 @@ Setup Oak-D Lite on Ubuntu
 
 Reference Link : https://docs.luxonis.com/software/depthai/manual-install/#Manual%20DepthAI%20installation-Installing%20dependencies-Ubuntu%2FDebian
 
-Step 1 : 
+Step 1 : Install Dependencies for Ubuntu
 
 sudo wget -qO- https://docs.luxonis.com/install_dependencies.sh | bash
 
