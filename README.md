@@ -40,3 +40,21 @@ Run example Code :
 python3 ColorCamera/rgb_preview.py
 
 
+
+
+_____________ X ___________________
+
+
+
+DepthAI ROS Setup 
+
+Reference Link  : https://docs.luxonis.com/software/ros/depthai-ros/
+
+Step 1 : 
+
+sudo apt install ros-humble-depthai-ros
+
+If not, install from source : https://docs.luxonis.com/software/ros/depthai-ros/build/
+
+
+OR FOLLOW THIS REPO : https://github.com/westonrobot/depthai_ros
