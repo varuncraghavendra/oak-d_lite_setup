@@ -11,10 +11,12 @@ python3 -m pip install depthai
 
 
 git clone https://github.com/luxonis/depthai-python.git
+
 cd depthai-python
 
 
 cd examples
+
 python3 install_requirements.py
 
 
@@ -27,6 +29,7 @@ If this doesnt work, then try
 git checkout develop
 
 cd examples
+
 python3 install_requirements.py
 
 
